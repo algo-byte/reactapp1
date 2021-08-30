@@ -19,7 +19,7 @@ function Form() {
         <img src={img6} className="img5"></img>
       </div>
 
-      <div className="form">
+      <div className="form-form">
         <div className="que_container">
           <p className="que">
             1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae
