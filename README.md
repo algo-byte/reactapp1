@@ -16,3 +16,5 @@ A website made for the welfare of people tackling with the problem of mental hea
 ![Capture3](https://user-images.githubusercontent.com/65943606/175512819-fcb5bebb-a852-4780-b48b-0c2fc11941cf.JPG)
 ![Capture4](https://user-images.githubusercontent.com/65943606/175512824-b2278f64-bd70-42c1-b796-ab08e5ac7260.JPG)
 ![Capture5](https://user-images.githubusercontent.com/65943606/175512827-89f9a27a-6bd4-4cd7-a9ac-18230734f14b.JPG)
+
+### This website is made using reactjs
